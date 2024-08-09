@@ -10,16 +10,30 @@
 
 ## Table of Contents
 
+*   [Go](#go)
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [Markdown](#markdown)
 *   [Vue](#vue)
-*   [Python](#python)
 *   [C#](#c)
 *   [Shell](#shell)
-*   [Go](#go)
 *   [C](#c-1)
+
+## Go
+
+*   [golang/go](https://github.com/golang/go) - The Go programming language
+
+*   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your Self-hosted Comment System.
+
+*   [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+
+## Python
+
+*   [python/cpython](https://github.com/python/cpython) - The Python programming language
+
+*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 
 ## TypeScript
 
@@ -49,10 +63,6 @@
 
 *   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 
-## Python
-
-*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-
 ## C\#
 
 *   [mihaifm/HIBPOfflineCheck](https://github.com/mihaifm/HIBPOfflineCheck) - Keepass plugin that performs offline and online checks against HaveIBeenPwned passwords
@@ -60,12 +70,6 @@
 ## Shell
 
 *   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
-
-## Go
-
-*   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your Self-hosted Comment System.
-
-*   [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
 
 ## C
 
