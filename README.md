@@ -10,9 +10,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Python](#python)
-*   [TypeScript](#typescript)
 *   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [Markdown](#markdown)
@@ -20,6 +20,20 @@
 *   [C#](#c)
 *   [Shell](#shell)
 *   [C](#c-1)
+
+## TypeScript
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+
+*   [zmh-program/next-whois-ui](https://github.com/zmh-program/next-whois-ui) - 🧪 Lightweight and beautiful whois query tool 🧪 轻量、简洁、美观的 Whois 查询工具
+
+*   [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve
+
+*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+
+*   [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
+
+*   [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) - Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
 
 ## Go
 
@@ -34,18 +48,6 @@
 *   [python/cpython](https://github.com/python/cpython) - The Python programming language
 
 *   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-
-## TypeScript
-
-*   [zmh-program/next-whois-ui](https://github.com/zmh-program/next-whois-ui) - 🧪 Lightweight and beautiful whois query tool 🧪 轻量、简洁、美观的 Whois 查询工具
-
-*   [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve
-
-*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-
-*   [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
-
-*   [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) - Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
 
 ## CSS
 
