@@ -13,7 +13,6 @@
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Python](#python)
-*   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [Markdown](#markdown)
 *   [Vue](#vue)
@@ -49,11 +48,9 @@
 
 *   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 
-## CSS
+## JavaScript
 
 *   [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
-
-## JavaScript
 
 *   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
