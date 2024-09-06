@@ -22,6 +22,8 @@
 
 ## C
 
+*   [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
+
 *   [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
 
 *   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
