@@ -10,15 +10,23 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [C](#c)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Python](#python)
-*   [JavaScript](#javascript)
 *   [Markdown](#markdown)
 *   [Vue](#vue)
 *   [C#](#c-1)
 *   [Shell](#shell)
+
+## JavaScript
+
+*   [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator) - An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
+
+*   [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
+
+*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
 ## C
 
@@ -46,7 +54,7 @@
 
 *   [golang/go](https://github.com/golang/go) - The Go programming language
 
-*   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your Self-hosted Comment System.
+*   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 
 *   [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
 
@@ -55,12 +63,6 @@
 *   [python/cpython](https://github.com/python/cpython) - The Python programming language
 
 *   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-
-## JavaScript
-
-*   [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
-
-*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
 ## Markdown
 
