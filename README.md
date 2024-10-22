@@ -10,15 +10,20 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
-*   [C](#c)
+*   [C](#c-1)
 *   [Go](#go)
 *   [Python](#python)
 *   [Markdown](#markdown)
-*   [C#](#c-1)
+*   [C#](#c-2)
 *   [Shell](#shell)
+
+## C++
+
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 
 ## TypeScript
 
