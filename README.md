@@ -10,16 +10,24 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Go](#go)
 *   [C++](#c)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
 *   [C](#c-1)
-*   [Python](#python)
 *   [Markdown](#markdown)
 *   [C#](#c-2)
 *   [Shell](#shell)
+
+## Python
+
+*   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
+
+*   [python/cpython](https://github.com/python/cpython) - The Python programming language
+
+*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 
 ## Go
 
@@ -74,12 +82,6 @@
 *   [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
 
 *   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-
-## Python
-
-*   [python/cpython](https://github.com/python/cpython) - The Python programming language
-
-*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 
 ## Markdown
 
