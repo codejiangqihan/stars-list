@@ -10,8 +10,9 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [Go](#go)
+*   [Shell](#shell)
+*   [Python](#python)
 *   [C++](#c)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
@@ -19,17 +20,10 @@
 *   [C](#c-1)
 *   [Markdown](#markdown)
 *   [C#](#c-2)
-*   [Shell](#shell)
-
-## Python
-
-*   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
-
-*   [python/cpython](https://github.com/python/cpython) - The Python programming language
-
-*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 
 ## Go
+
+*   [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 
 *   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 
@@ -38,6 +32,20 @@
 *   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 
 *   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+
+## Shell
+
+*   [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
+
+*   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
+
+## Python
+
+*   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
+
+*   [python/cpython](https://github.com/python/cpython) - The Python programming language
+
+*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 
 ## C++
 
@@ -90,7 +98,3 @@
 ## C\#
 
 *   [mihaifm/HIBPOfflineCheck](https://github.com/mihaifm/HIBPOfflineCheck) - Keepass plugin that performs offline and online checks against HaveIBeenPwned passwords
-
-## Shell
-
-*   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
