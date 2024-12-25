@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Assembly](#assembly)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Shell](#shell)
@@ -20,6 +21,10 @@
 *   [C](#c-1)
 *   [Markdown](#markdown)
 *   [C#](#c-2)
+
+## Assembly
+
+*   [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
 ## TypeScript
 
