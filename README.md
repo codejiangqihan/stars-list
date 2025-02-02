@@ -24,6 +24,8 @@
 
 ## Go
 
+*   [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+
 *   [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
 
 *   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
