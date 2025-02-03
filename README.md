@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [Go](#go)
 *   [C](#c)
 *   [Python](#python)
@@ -21,6 +22,10 @@
 *   [Vue](#vue)
 *   [Markdown](#markdown)
 *   [C#](#c-2)
+
+## Ruby
+
+*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 
 ## Go
 
