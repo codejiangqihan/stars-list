@@ -10,13 +10,13 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Java](#java)
 *   [Go](#go)
 *   [PowerShell](#powershell)
 *   [Ruby](#ruby)
 *   [C](#c)
 *   [Python](#python)
-*   [JavaScript](#javascript)
 *   [C++](#c-1)
 *   [TypeScript](#typescript)
 *   [Assembly](#assembly)
@@ -24,6 +24,18 @@
 *   [Vue](#vue)
 *   [Markdown](#markdown)
 *   [C#](#c-2)
+
+## JavaScript
+
+*   [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
+
+*   [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
+
+*   [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator) - An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
+
+*   [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
+
+*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
 ## Java
 
@@ -82,16 +94,6 @@
 *   [python/cpython](https://github.com/python/cpython) - The Python programming language
 
 *   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-
-## JavaScript
-
-*   [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
-
-*   [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator) - An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
-
-*   [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
-
-*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
 ## C++
 
