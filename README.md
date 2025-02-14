@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Perl](#perl)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [Go](#go)
@@ -24,6 +25,10 @@
 *   [Vue](#vue)
 *   [Markdown](#markdown)
 *   [C#](#c-2)
+
+## Perl
+
+*   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## JavaScript
 
