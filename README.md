@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Perl](#perl)
 *   [JavaScript](#javascript)
 *   [Java](#java)
@@ -25,6 +26,10 @@
 *   [Vue](#vue)
 *   [Markdown](#markdown)
 *   [C#](#c-2)
+
+## Rust
+
+*   [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 
 ## Perl
 
