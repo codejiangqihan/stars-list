@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Rust](#rust)
 *   [Perl](#perl)
 *   [JavaScript](#javascript)
@@ -17,7 +18,6 @@
 *   [Go](#go)
 *   [PowerShell](#powershell)
 *   [Ruby](#ruby)
-*   [C](#c)
 *   [Python](#python)
 *   [C++](#c-1)
 *   [TypeScript](#typescript)
@@ -26,6 +26,20 @@
 *   [Vue](#vue)
 *   [Markdown](#markdown)
 *   [C#](#c-2)
+
+## C
+
+*   [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
+
+*   [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
+
+*   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+
+*   [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
+
+*   [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
+
+*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## Rust
 
@@ -78,18 +92,6 @@
 ## Ruby
 
 *   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-
-## C
-
-*   [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
-
-*   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-
-*   [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
-
-*   [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
-
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## Python
 
