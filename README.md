@@ -29,6 +29,8 @@
 
 ## C
 
+*   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+
 *   [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 
 *   [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
