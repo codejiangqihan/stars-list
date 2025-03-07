@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Nim](#nim)
 *   [C](#c)
 *   [Rust](#rust)
 *   [Perl](#perl)
@@ -26,6 +27,10 @@
 *   [Vue](#vue)
 *   [Markdown](#markdown)
 *   [C#](#c-2)
+
+## Nim
+
+*   [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 
 ## C
 
