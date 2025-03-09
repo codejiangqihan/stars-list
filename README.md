@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Nim](#nim)
 *   [C](#c)
 *   [Rust](#rust)
@@ -23,10 +24,17 @@
 *   [C++](#c-1)
 *   [TypeScript](#typescript)
 *   [Assembly](#assembly)
-*   [Shell](#shell)
 *   [Vue](#vue)
 *   [Markdown](#markdown)
 *   [C#](#c-2)
+
+## Shell
+
+*   [Locietta/xanmod-kernel-WSL2](https://github.com/Locietta/xanmod-kernel-WSL2) - Xanmod kernel for WSL2, built by clang with ThinLTO enabled. Build & Release are automated by Github Action.
+
+*   [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
+
+*   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
 
 ## Nim
 
@@ -147,12 +155,6 @@
 ## Assembly
 
 *   [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
-
-## Shell
-
-*   [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
-
-*   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
 
 ## Vue
 
