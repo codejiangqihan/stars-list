@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [LLVM](#llvm)
 *   [Shell](#shell)
 *   [Nim](#nim)
 *   [C](#c)
@@ -27,6 +28,10 @@
 *   [Vue](#vue)
 *   [Markdown](#markdown)
 *   [C#](#c-2)
+
+## LLVM
+
+*   [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## Shell
 
