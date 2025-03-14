@@ -10,10 +10,11 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [LLVM](#llvm)
 *   [Shell](#shell)
 *   [Nim](#nim)
-*   [C](#c)
+*   [C](#c-1)
 *   [Rust](#rust)
 *   [Perl](#perl)
 *   [JavaScript](#javascript)
@@ -22,12 +23,17 @@
 *   [PowerShell](#powershell)
 *   [Ruby](#ruby)
 *   [Python](#python)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [TypeScript](#typescript)
 *   [Assembly](#assembly)
 *   [Vue](#vue)
 *   [Markdown](#markdown)
-*   [C#](#c-2)
+
+## C\#
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [mihaifm/HIBPOfflineCheck](https://github.com/mihaifm/HIBPOfflineCheck) - Keepass plugin that performs offline and online checks against HaveIBeenPwned passwords
 
 ## LLVM
 
@@ -170,7 +176,3 @@
 ## Markdown
 
 *   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-
-## C\#
-
-*   [mihaifm/HIBPOfflineCheck](https://github.com/mihaifm/HIBPOfflineCheck) - Keepass plugin that performs offline and online checks against HaveIBeenPwned passwords
