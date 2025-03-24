@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -18,7 +19,6 @@
 *   [Shell](#shell)
 *   [Nim](#nim)
 *   [C](#c-1)
-*   [Rust](#rust)
 *   [Perl](#perl)
 *   [Java](#java)
 *   [Go](#go)
@@ -28,6 +28,12 @@
 *   [Assembly](#assembly)
 *   [Vue](#vue)
 *   [Markdown](#markdown)
+
+## Rust
+
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+*   [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 
 ## JavaScript
 
@@ -122,10 +128,6 @@
 *   [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
 
 *   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-
-## Rust
-
-*   [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 
 ## Perl
 
