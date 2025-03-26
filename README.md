@@ -33,8 +33,6 @@
 
 *   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
-*   [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
-
 ## JavaScript
 
 *   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -78,6 +76,8 @@
 ## Python
 
 *   [openwrt-xiaomi/xmir-patcher](https://github.com/openwrt-xiaomi/xmir-patcher) - Firmware patcher for Xiaomi routers
+
+*   [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 
 *   [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 
