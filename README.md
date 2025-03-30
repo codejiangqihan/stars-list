@@ -10,12 +10,13 @@
 
 ## Table of Contents
 
-*   [C](#c)
+*   [C++](#c)
+*   [C](#c-1)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
-*   [C#](#c-1)
+*   [C#](#c-2)
 *   [LLVM](#llvm)
 *   [Nim](#nim)
 *   [Perl](#perl)
@@ -23,11 +24,18 @@
 *   [Go](#go)
 *   [PowerShell](#powershell)
 *   [Ruby](#ruby)
-*   [C++](#c-2)
 *   [Assembly](#assembly)
 *   [Shell](#shell)
 *   [Vue](#vue)
 *   [Markdown](#markdown)
+
+## C++
+
+*   [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
+
+*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
+
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 
 ## C
 
@@ -158,12 +166,6 @@
 ## Ruby
 
 *   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-
-## C++
-
-*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
-
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 
 ## Assembly
 
