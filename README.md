@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-*   [C++](#c)
-*   [C](#c-1)
+*   [C](#c)
+*   [C++](#c-1)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
@@ -29,15 +29,9 @@
 *   [Vue](#vue)
 *   [Markdown](#markdown)
 
-## C++
-
-*   [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
-
-*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
-
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-
 ## C
+
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 
 *   [Nevuly/WSL2-Linux-Kernel-Rolling](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling) - Rolling Release Stable Kernel for Windows Subsystem for Linux2 (WSL2)
 
@@ -54,6 +48,14 @@
 *   [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
 
 *   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+
+## C++
+
+*   [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
+
+*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
+
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 
 ## Rust
 
