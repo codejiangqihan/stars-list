@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Vim Script](#vim-script)
 *   [C](#c)
 *   [C++](#c-1)
 *   [Rust](#rust)
@@ -28,6 +29,10 @@
 *   [Shell](#shell)
 *   [Vue](#vue)
 *   [Markdown](#markdown)
+
+## Vim Script
+
+*   [vim/vim](https://github.com/vim/vim) - The official Vim repository
 
 ## C
 
