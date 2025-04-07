@@ -10,13 +10,13 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Vim Script](#vim-script)
 *   [C](#c)
 *   [C++](#c-1)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
-*   [Python](#python)
 *   [C#](#c-2)
 *   [LLVM](#llvm)
 *   [Nim](#nim)
@@ -29,6 +29,26 @@
 *   [Shell](#shell)
 *   [Vue](#vue)
 *   [Markdown](#markdown)
+
+## Python
+
+*   [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+
+*   [openwrt-xiaomi/xmir-patcher](https://github.com/openwrt-xiaomi/xmir-patcher) - Firmware patcher for Xiaomi routers
+
+*   [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
+
+*   [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
+
+*   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
+
+*   [ungoogled-software/ungoogled-chromium-windows](https://github.com/ungoogled-software/ungoogled-chromium-windows) - Windows packaging for ungoogled-chromium
+
+*   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
+
+*   [python/cpython](https://github.com/python/cpython) - The Python programming language
+
+*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 
 ## Vim Script
 
@@ -109,24 +129,6 @@
 *   [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 
 *   [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) - Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
-
-## Python
-
-*   [openwrt-xiaomi/xmir-patcher](https://github.com/openwrt-xiaomi/xmir-patcher) - Firmware patcher for Xiaomi routers
-
-*   [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
-
-*   [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-
-*   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
-
-*   [ungoogled-software/ungoogled-chromium-windows](https://github.com/ungoogled-software/ungoogled-chromium-windows) - Windows packaging for ungoogled-chromium
-
-*   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
-
-*   [python/cpython](https://github.com/python/cpython) - The Python programming language
-
-*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 
 ## C\#
 
