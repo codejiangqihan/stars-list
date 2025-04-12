@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Python](#python)
 *   [Vim Script](#vim-script)
 *   [C](#c)
@@ -26,9 +27,16 @@
 *   [PowerShell](#powershell)
 *   [Ruby](#ruby)
 *   [Assembly](#assembly)
-*   [Shell](#shell)
 *   [Vue](#vue)
 *   [Markdown](#markdown)
+
+## Shell
+
+*   [pgautoupgrade/docker-pgautoupgrade](https://github.com/pgautoupgrade/docker-pgautoupgrade) - A PostgreSQL Docker container that automatically upgrades your database
+
+*   [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
+
+*   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
 
 ## Python
 
@@ -183,12 +191,6 @@
 ## Assembly
 
 *   [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
-
-## Shell
-
-*   [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
-
-*   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
 
 ## Vue
 
