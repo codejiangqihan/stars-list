@@ -10,13 +10,14 @@
 
 ## Table of Contents
 
+*   [Zig](#zig)
+*   [C++](#c)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
-*   [C](#c)
+*   [C](#c-1)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [Vim Script](#vim-script)
-*   [C++](#c-1)
 *   [Rust](#rust)
 *   [C#](#c-2)
 *   [LLVM](#llvm)
@@ -29,6 +30,20 @@
 *   [Assembly](#assembly)
 *   [Vue](#vue)
 *   [Markdown](#markdown)
+
+## Zig
+
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## C++
+
+*   [ip7z/7zip](https://github.com/ip7z/7zip) - 7-Zip
+
+*   [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
+
+*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
+
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 
 ## JavaScript
 
@@ -131,14 +146,6 @@
 ## Vim Script
 
 *   [vim/vim](https://github.com/vim/vim) - The official Vim repository
-
-## C++
-
-*   [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
-
-*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
-
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 
 ## Rust
 
