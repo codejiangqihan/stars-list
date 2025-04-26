@@ -10,13 +10,13 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Zig](#zig)
 *   [C++](#c)
 *   [JavaScript](#javascript)
 *   [C](#c-1)
-*   [Shell](#shell)
 *   [Python](#python)
 *   [Vim Script](#vim-script)
 *   [Rust](#rust)
@@ -32,6 +32,16 @@
 *   [Vue](#vue)
 *   [Markdown](#markdown)
 
+## Shell
+
+*   [Locietta/xanmod-kernel-WSL2](https://github.com/Locietta/xanmod-kernel-WSL2) - Xanmod kernel for WSL2, built by clang with ThinLTO enabled. Build & Release are automated by Github Action.
+
+*   [pgautoupgrade/docker-pgautoupgrade](https://github.com/pgautoupgrade/docker-pgautoupgrade) - A PostgreSQL Docker container that automatically upgrades your database
+
+*   [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
+
+*   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
+
 ## miscellaneous
 
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -46,7 +56,7 @@
 
 *   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 
 *   [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 
@@ -121,14 +131,6 @@
 *   [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
 
 *   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-
-## Shell
-
-*   [pgautoupgrade/docker-pgautoupgrade](https://github.com/pgautoupgrade/docker-pgautoupgrade) - A PostgreSQL Docker container that automatically upgrades your database
-
-*   [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
-
-*   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
 
 ## Python
 
