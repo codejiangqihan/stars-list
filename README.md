@@ -34,6 +34,8 @@
 
 ## Go
 
+*   [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+
 *   [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 
 *   [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
