@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [C](#c)
 *   [Go](#go)
 *   [Shell](#shell)
@@ -20,7 +21,6 @@
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Vim Script](#vim-script)
-*   [Rust](#rust)
 *   [C#](#c-2)
 *   [LLVM](#llvm)
 *   [Nim](#nim)
@@ -31,6 +31,12 @@
 *   [Assembly](#assembly)
 *   [Vue](#vue)
 *   [Markdown](#markdown)
+
+## Rust
+
+*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
 ## C
 
@@ -179,10 +185,6 @@
 ## Vim Script
 
 *   [vim/vim](https://github.com/vim/vim) - The official Vim repository
-
-## Rust
-
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
 ## C\#
 
