@@ -25,7 +25,6 @@
 *   [LLVM](#llvm)
 *   [Nim](#nim)
 *   [Perl](#perl)
-*   [Java](#java)
 *   [PowerShell](#powershell)
 *   [Ruby](#ruby)
 *   [Assembly](#assembly)
@@ -190,6 +189,8 @@
 
 *   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
+*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
+
 *   [mihaifm/HIBPOfflineCheck](https://github.com/mihaifm/HIBPOfflineCheck) - Keepass plugin that performs offline and online checks against HaveIBeenPwned passwords
 
 ## LLVM
@@ -203,10 +204,6 @@
 ## Perl
 
 *   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
-
-## Java
-
-*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 
 ## PowerShell
 
