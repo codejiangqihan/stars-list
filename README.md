@@ -167,7 +167,7 @@
 
 *   [openwrt-xiaomi/xmir-patcher](https://github.com/openwrt-xiaomi/xmir-patcher) - Firmware patcher for Xiaomi routers
 
-*   [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
+*   [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 
 *   [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 
