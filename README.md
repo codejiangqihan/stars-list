@@ -49,8 +49,6 @@
 
 *   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 
-*   [Nevuly/WSL2-Linux-Kernel-Rolling](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling) - Rolling Release Stable Kernel for Windows Subsystem for Linux2 (WSL2)
-
 *   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 *   [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
@@ -100,6 +98,8 @@
 ## miscellaneous
 
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+*   [Nevuly/WSL2-Linux-Kernel-Rolling](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling) - Rolling Release Stable Kernel for Windows Subsystem for Linux2 (WSL2)
 
 ## TypeScript
 
