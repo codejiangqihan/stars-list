@@ -179,6 +179,8 @@
 
 *   [Nevuly/WSL2-Linux-Kernel-Rolling](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling) - Rolling Release Stable Kernel for Windows Subsystem for Linux2 (WSL2)
 
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+
 ## C++
 
 *   [ip7z/7zip](https://github.com/ip7z/7zip) - 7-Zip
@@ -186,8 +188,6 @@
 *   [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 
 *   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
-
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 
 ## Vim Script
 
